@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clothes-website.git/static/css/main.57209d00.css",
+    "main.js": "/clothes-website.git/static/js/main.061a8883.js",
+    "static/js/787.57d4d9af.chunk.js": "/clothes-website.git/static/js/787.57d4d9af.chunk.js",
+    "static/media/product2.jpg": "/clothes-website.git/static/media/product2.b5d1e7a11fb6555bfab6.jpg",
+    "index.html": "/clothes-website.git/index.html",
+    "main.57209d00.css.map": "/clothes-website.git/static/css/main.57209d00.css.map",
+    "main.061a8883.js.map": "/clothes-website.git/static/js/main.061a8883.js.map",
+    "787.57d4d9af.chunk.js.map": "/clothes-website.git/static/js/787.57d4d9af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57209d00.css",
+    "static/js/main.061a8883.js"
+  ]
+}
